@@ -14,3 +14,4 @@ Task.find_or_create_by!(title: 'Se inscrever no canal do Youtube do OneBitCode',
 Task.find_or_create_by!(title: 'Finalizar esse Artigo para melhorar minhas habilidades', done: false)
 Task.find_or_create_by!(title: 'Estudar Ruby On Rails', done: true)
 Task.find_or_create_by!(title: 'Estudar React', done: true)
+Task.find_or_create_by!(title: 'Estudar React Redux', done: true)
